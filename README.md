@@ -35,6 +35,7 @@ Explore end-to-end fine-tuning experiences in the **[Demos](Demos/)** folder:
 | [SFT_PubMed_Summarization](Demos/SFT_PubMed_Summarization/) | SFT | Medical paper summarization | ⭐ Beginner |
 | [DPO_Intel_Orca](Demos/DPO_Intel_Orca/) | DPO | Preference optimization | ⭐⭐ Intermediate |
 | [RFT_Countdown](Demos/RFT_Countdown/) | RFT | Math puzzle solving | ⭐⭐ Intermediate |
+| [RFT_Math_Reasoning](Demos/RFT_Math_Reasoning/) | RFT | Advanced mathematical reasoning | ⭐⭐⭐ Advanced |
 | [DistillingSarcasm](Demos/DistillingSarcasm/) | Distillation | Knowledge transfer | ⭐⭐ Intermediate |
 | [Image_Breed_Classification_FT](Demos/Image_Breed_Classification_FT/) | Vision SFT | Dog breed classification | ⭐⭐ Intermediate |
 | [Image_FT_Chart_Analysis](Demos/Image_FT_Chart_Analysis/) | Vision SFT | Chart understanding | ⭐⭐ Intermediate |
